@@ -1,1 +1,1 @@
-nix-env -iA nixpkgs.tree
+echo "Hello Worl"
