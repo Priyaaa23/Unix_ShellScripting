@@ -1,1 +1,1 @@
-echo Hello World!
+nix-env -iA nixpkgs.tree
