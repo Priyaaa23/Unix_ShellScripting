@@ -1,0 +1,21 @@
+StudentID,Age,DOB,Gender,SocioeconomicStatus,SchoolType,GradeLevel,AttendanceRate,GPA,DisciplineIncidents,ExtraCurAct,ParentalCare,GraduationFlag,DropoutFlag,Location
+21,20,09-07-14,Male,High,Private,12,0.79,2.5,3,Video Editing Club,Low,0,1,Mysore
+22,21,08-03-09,Female,Medium,Charter,11,0.92,3.7,0,Debate Team,High,0,0,Mysore
+23,20,10-08-05,Male,Low,Public,12,0.81,2.6,1,Football,Medium,0,0,Chennai
+24,21,09-12-04,Female,High,Private,11,0.95,3.9,0,French Club,Low,0,0,Chennai
+25,20,08-08-02,Male,Low,Charter,10,0.87,3.2,2,Drama Club,Medium,1,0,Chennai
+26,21,10-05-03,Female,Medium,Public,12,0.84,3.0,4,Environmental Club,High,0,0,Chennai
+27,20,09-06-22,Male,High,Private,11,0.75,2.3,5,Video Games Club,Low,1,0,Chennai
+28,21,08-05-11,Female,Medium,Charter,10,0.9,3.5,0,Yearbook Committee,High,0,0
+29,20,10-07-17,Male,Low,Public,12,0.88,3.3,1,Basketball,Medium,0,0
+30,21,09-10-09,Female,High,Private,11,0.93,3.8,0,Math Olympiad,Low,0,0,Chennai
+31,22,07-04-03,Male,Medium,Charter,10,0.86,2.8,3,Chess Club,Medium,1,0,Mysore
+32,23,06-04-21,Female,Low,Public,12,0.79,2.4,2,Book Club,High,0,0,Mysore
+33,22,07-05-20,Male,High,Private,11,0.92,3.7,0,Science Club,Low,0,0,Mysore
+34,23,06-07-02,Female,Medium,Charter,10,0.84,3.0,1,Track & Field,Medium,1,0,Chennai
+35,22,07-06-09,Male,Low,Public,12,0.8,2.5,4,Video Editing Club,High,0,0,Chennai
+36,23,06-09-25,Female,High,Private,11,0.94,3.9,0,Newspaper Club,Low,0,0,Mysore
+37,22,07-03-27,Male,Medium,Charter,10,0.87,3.2,2,Drama Club,Medium,1,0,Mysore
+38,23,06-09-18,Female,Low,Public,12,0.83,3.1,1,Volleyball,High,0,0,Mysore
+39,23,19-09-18,Male,High,Private,11,0.9,3.5,0,Model UN,Low,0,0,Mysore
+40,25,06-10-20,Female,Medium,Charter,10,0.89,3.4,3,Art Club,Medium,1,0,Mysore
