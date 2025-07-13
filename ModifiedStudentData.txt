@@ -2,7 +2,7 @@ StudentID,Age,DOB,Gender,SocioeconomicStatus,SchoolType,GradeLevel,AttendanceRat
 21,20,09-07-2014,Male,High,Private,12,0.79,2.5,3,Video Editing Club,Low,0,1,Mysore
 22,21,08-03-2009,Female,Medium,Charter,11,0.92,3.7,0,Debate Team,High,0,0,Mysore
 23,20,10-08-2005,Male,Low,Public,12,0.81,2.6,1,Football,Medium,0,0,Chennai
-24,21,09-12-2004,Female,High,Private,11,0.95,3.9,0,French Club,Low,0,0,Chennai
+24,21,09-12-2004,Female,High,Private,11,0.95,3.9,0,French Club,Low,0,0,Chennai 
 25,20,08-08-2002,Male,Low,Charter,10,0.87,3.2,2,Drama Club,Medium,1,0,Chennai
 26,21,10-05-2003,Female,Medium,Public,12,0.84,3.0,4,Environmental Club,High,0,0,Chennai
 27,20,09-06-2022,Male,High,Private,11,0.75,2.3,5,Video Games Club,Low,1,0,Chennai
